@@ -73,6 +73,10 @@ Detectify :see_no_evil:\
 https://detectify.com/lp/black-friday-professional-plan-offer  
 20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.
 
+Online PKI Assessment Portal for Microsoft ADCS based environments
+https://www.pkisolutions.com/assessments/#online
+80% off one-time online Microsoft PKI Assessment or 12-month unlimited license. Pricing valid until Dec 4
+
 ## Books:
 
 NoStarch Press\
